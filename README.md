@@ -28,9 +28,7 @@ Teste:
   - Testar as soluções com os usuários e obter feedback.
 
 UX e metodologias ágeis:
-  - O projeto foi desenvolvido utilizando UX e metodologias ágeis. UX é a experiência do usuário e é importante que a página web seja   
-  fácil de usar e agradável de visualizar. Metodologias ágeis são um conjunto de técnicas que permitem desenvolver projetos de forma 
-  rápida e eficiente.
+  - O projeto foi desenvolvido utilizando UX e metodologias ágeis. UX é a experiência do usuário e é importante que a página web seja fácil de usar e agradável de visualizar. Metodologias ágeis são um conjunto de técnicas que permitem desenvolver projetos de forma rápida e eficiente.
 
 # HTML, CSS e Bootstrap
 As tecnologias HTML, CSS e Bootstrap foram utilizadas para desenvolver a página web. HTML é uma linguagem de marcação que define a estrutura da página web. CSS é uma linguagem de estilos que define a aparência da página web. Bootstrap é uma biblioteca de CSS que facilita o desenvolvimento de páginas web responsivas.
