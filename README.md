@@ -11,16 +11,22 @@ O projeto foi criado com o objetivo de ilustrar as habilidades do desenvolvedor 
 O processo de design thinking foi utilizado para identificar as necessidades do usuário e desenvolver uma solução que atenda a essas necessidades. O processo envolveu as seguintes etapas:
 
 # Comportamento
+
 Empatia:
   - Entender as necessidades e desejos do usuário.
+
 Definição:
   - Definir o problema que precisa ser resolvido.
+
 Ideação:
   - Gerar ideias de soluções para o problema.
+
 Prototipação:
   - Criar protótipos das soluções para testar com os usuários.
+
 Teste:
   - Testar as soluções com os usuários e obter feedback.
+
 UX e metodologias ágeis:
   - O projeto foi desenvolvido utilizando UX e metodologias ágeis. UX é a experiência do usuário e é importante que a página web seja   
   fácil de usar e agradável de visualizar. Metodologias ágeis são um conjunto de técnicas que permitem desenvolver projetos de forma 
